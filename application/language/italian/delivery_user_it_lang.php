@@ -1,0 +1,31 @@
+<?php
+
+$lang['create_new_delivery_user']='Crea un nuovo utente di consegna';
+$lang['user_personal_information']="Informazioni personali dell'utente";
+$lang['delivery_user_account_information']="Informazioni sull'account utente di consegna";
+$lang['user_first_name']='Nome utente';
+$lang['first_name']='Nome di battesimo';
+$lang['user_last_name']="Cognome dell'utente";
+$lang['last_name']='Cognome';
+$lang['user_email']="Email dell'utente";
+$lang['user_phone']="Telefono dell'utente";
+$lang['user_phone_number']="Numero di telefono dell'utente";
+$lang['user_identity_number']="Numero di identità dell'utente";
+$lang['user_login_information']="Informazioni di accesso dell'utente";
+$lang['auto_create_user_name_and_password']='Auto Crea nome utente e password';
+$lang['user_name']='Nome utente';
+$lang['user_password']='Password utente';
+$lang['user_new_password']='User New Password';
+$lang['password']="Parola d'ordine";
+$lang['re_type_new_password']='Ridigita la nuova password';
+$lang['add']='INSERISCI';
+$lang['user_status']="Stato dell'utente";
+$lang['user_add_date']='Data aggiunta utente';
+$lang['action']='Azione';
+$lang['admin_account_information']="Informazioni sull'account amministratore";
+$lang['update']='Aggiornare';
+$lang['de_active']='De-Active';
+$lang['active']='Attivo';
+$lang['remove']='Rimuovere';
+$lang['view']='vista';
+$lang['update_login_information']='Aggiorna le informazioni di accesso';
